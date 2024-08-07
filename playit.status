@@ -1771,3 +1771,15 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArgfAAAAZEvIYA_AAA
 
 TUNNELS
 follow-hollywood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723072625479 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArgfAAAAZEvIbteAAAAAQAAAAEAAAAAAAAAAFY1RT62Lcg7cxsnAEuH5_L2Ahl--aDBURU0eksgFWzh
+
+TUNNELS
+follow-hollywood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
